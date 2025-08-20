@@ -26,7 +26,7 @@ A repository is where your project and its files are. They include READMEs which
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/TomaSinanski/TomaSinanski/
 
 ---
 
